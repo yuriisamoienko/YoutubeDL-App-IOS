@@ -541,7 +541,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = YoutubeDL/YoutubeDL.entitlements;
-				DEVELOPMENT_TEAM = 265782UUTC;
+				DEVELOPMENT_TEAM = QN4ZAR6A43;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)",
@@ -558,7 +558,7 @@
 					"@executable_path/Frameworks",
 				);
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = kr.co.rhk.YD;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.co.rhk.YD34q2862687223964;
 				PRODUCT_NAME = Y;
 				SWIFT_INCLUDE_PATHS = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "YoutubeDL/YoutubeDL-Bridging-Header.h";
@@ -576,7 +576,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = YoutubeDL/YoutubeDL.entitlements;
-				DEVELOPMENT_TEAM = 265782UUTC;
+				DEVELOPMENT_TEAM = QN4ZAR6A43;
 				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
@@ -594,7 +594,7 @@
 					"@executable_path/Frameworks",
 				);
 				LIBRARY_SEARCH_PATHS = "$(inherited)";
-				PRODUCT_BUNDLE_IDENTIFIER = kr.co.rhk.YD;
+				PRODUCT_BUNDLE_IDENTIFIER = kr.co.rhk.YD34q2862687223964;
 				PRODUCT_NAME = Y;
 				SWIFT_INCLUDE_PATHS = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "YoutubeDL/YoutubeDL-Bridging-Header.h";
